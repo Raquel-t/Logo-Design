@@ -1,6 +1,7 @@
 // Runs the application using imports from lib/
 
-const LogoGenerator = require('./lib/logoGenerator');
+const CLI = require('./lib/cli');
 
-const logoGenerator = new LogoGenerator();
-logoGenerator.generateLogo();
+const cli = new CLI();
+
+cli.run();
