@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### User Story
+### Description
 
 ```md
 AS a freelance web developer
@@ -29,7 +29,26 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Demo
+## Table of Contents
+
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributors](#contributors)
+* [Testing](#testing)
+* [Questions](#questions)
+* [Resources](#resources)
+
+
+## Installation
+The following necessary dependencies must be installed: npm inquirer, jest and lib
+
+## Usage
+
+Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo.
+
 
 <!-- <video src="./assets/demo%20text%20-%2010-assignment.mp4" controls title="Title"></video> -->
 
@@ -37,7 +56,35 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ![logo](./examples/example2logo.svg)
 
-## Helpful SVG Resources
+## Badges
+* ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+* ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+* ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+* ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+* ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+* ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+## Contributors
+
+N/A
+
+
+## Testing
+```
+run node index.js on terminal
+```
+
+## Questions
+
+For any questions, please contact me at the following links:
+* **Creator** - 🎨 Raquel Tabarez
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelstabarez.07@gmail.com)
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquel-t)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://raquel-t.github.io/Professional-Portfolio-2nd-assignment/)
+
+
+
+## Resources
 
 * [Example SVG](https://static.fullstack-bootcamp.com/fullstack-ground/module-10/circle.svg)
 
@@ -50,3 +97,5 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 * [Text in SVG](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts)
 
 * [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
+
+## Credits
