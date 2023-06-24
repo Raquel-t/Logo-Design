@@ -31,7 +31,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demo
 
-<video src="./assets/demo%20text%20-%2010-assignment.mp4" controls title="Title"></video>
+
 
 ## Mock-Up
 
