@@ -47,7 +47,7 @@ The following necessary dependencies must be installed: npm inquirer, jest and l
 
 ## Usage
 
-Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo. To view walkthrough video click [Demo](src="https://bootcampspot.instructuremedia.com/embed/fe333205-2e95-4539-a19e-87c7ee09290a").
+Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo. To view walkthrough video click [Demo](https://drive.google.com/file/d/1wyU-dfwaHpprG58naNemLH_0cYC9-XXH/view).
 
 ## Mock-Up
 
