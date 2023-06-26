@@ -50,11 +50,11 @@ The following necessary dependencies must be installed: npm inquirer, jest and l
 Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo.
 
 
-<!-- <video src="./assets/demo%20text%20-%2010-assignment.mp4" controls title="Title"></video> -->
+![Demo Video](https://bootcampspot.instructuremedia.com/embed/fe333205-2e95-4539-a19e-87c7ee09290a)
 
 ## Mock-Up
 
-![logo](./examples/example2logo.svg)
+![logo](./examples/example3logo.svg)
 
 ## Badges
 * ![License](https://img.shields.io/badge/License-MIT-blue.svg)
