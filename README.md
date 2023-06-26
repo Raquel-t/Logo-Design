@@ -50,7 +50,7 @@ The following necessary dependencies must be installed: npm inquirer, jest and l
 Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo.
 
 
-![Demo Video](https://bootcampspot.instructuremedia.com/embed/fe333205-2e95-4539-a19e-87c7ee09290a)
+<iframe src="https://bootcampspot.instructuremedia.com/embed/fe333205-2e95-4539-a19e-87c7ee09290a" frameborder="0" allowfullscreen="true" width="640" height="480"></iframe>
 
 ## Mock-Up
 
