@@ -47,7 +47,7 @@ The following necessary dependencies must be installed: npm inquirer, jest and l
 
 ## Usage
 
-Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo. To view walkthrough video click [Demo](https://drive.google.com/file/d/1kNv-opbXs7kn8y17Er1-P1eZiLX3NHSd/view){:target="_blank"}.
+Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo. To view walkthrough video click [Demo](https://drive.google.com/file/d/1kNv-opbXs7kn8y17Er1-P1eZiLX3NHSd/view).
 
 
 ## Mock-Up
@@ -77,8 +77,8 @@ run node index.js on terminal
 For any questions, please contact me at the following links:
 * **Creator** - 🎨 Raquel Tabarez
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raquelstabarez.07@gmail.com)
-* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquel-t){:target="_blank"}
-* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://raquel-t.github.io/Professional-Portfolio-2nd-assignment/){:target="_blank"}
+* [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raquel-t)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://raquel-t.github.io/Professional-Portfolio-2nd-assignment/)
 
 
 
