@@ -47,7 +47,9 @@ The following necessary dependencies must be installed: npm inquirer, jest and l
 
 ## Usage
 
-Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo. To view walkthrough video click [Demo](https://drive.google.com/file/d/1wyU-dfwaHpprG58naNemLH_0cYC9-XXH/view).
+Open terminal and run node index.js. You'll be prompted with questions; which will generate a professional logo.
+
+<video src="logo-generator.mp4" controls title="Title"></video>
 
 ## Mock-Up
 
@@ -95,4 +97,3 @@ For any questions, please contact me at the following links:
 
 * [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=jock.svg)
 
-## Credits
