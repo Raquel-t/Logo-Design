@@ -2,5 +2,28 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
-  }
+  },
+  "name": "logo-design",
+  "description": "![License](https://img.shields.io/badge/License-MIT-blue.svg)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raquel-t/Logo-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raquel-t/Logo-Design/issues"
+  },
+  "homepage": "https://github.com/Raquel-t/Logo-Design#readme"
 }
